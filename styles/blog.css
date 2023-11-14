@@ -1,0 +1,24 @@
+.header{
+    height: 200px;
+    background-image: url(../devoloper/1_5IYtIe5OwxeoYXi226J-Uw.jpeg);
+}
+
+
+h3{
+    color: magenta;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+    text-decoration:underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+.blog{
+    background-color: rgb(197, 189, 184);
+    box-shadow:50px 50px 50px aqua;
+    margin-bottom: 100px;
+}
+
